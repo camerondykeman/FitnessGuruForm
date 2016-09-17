@@ -1,9 +1,3 @@
-# 
-
-
-# FitnessGuruForm
-
-
 #FitnessGuruForm
 
 ##What is this "FitnessGuruForm"?
@@ -18,10 +12,9 @@ Tasked with building this as part of a college assignment.
 
 ##How can I get me some FitnessGuruForm?
 
-By all means:
-check github.com/camerondykeman/FitnessGuruForm
+Head over to github.com/camerondykeman/FitnessGuruForm
 
 
-##But I prefer interface work...
+##This is pretty basic.
 
-Same.
+Agreed!
